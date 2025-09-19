@@ -1,7 +1,7 @@
 # Text2VideoLab_Basic
 
 A **learning project** that generates short videos from text prompts using **Hugging Face open-source models**.  
-Built with **Diffusers, Flask, and Docker** by **Kapil** 
+Built with **Diffusers, Flask, and Docker**
 
 ---
 
