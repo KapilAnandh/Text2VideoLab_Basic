@@ -1,0 +1,11 @@
+flask
+torch
+transformers
+accelerate
+huggingface_hub
+safetensors
+einops
+imageio[ffmpeg]
+decord
+git+https://github.com/huggingface/diffusers.git
+xformers
